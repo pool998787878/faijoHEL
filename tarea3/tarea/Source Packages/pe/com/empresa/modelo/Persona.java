@@ -1,2 +1,0 @@
-// Clase Persona.java
-
